@@ -1,2 +1,2 @@
 # curso-ibm
-aprendiendo desarrollo backend
+aprendiendo desarrollo back-end
